@@ -16,7 +16,6 @@ A modern NFT platform built with Next.js, Web3, and MongoDB that enables users t
 - **Frontend**: Next.js 13+, React 18, TypeScript
 - **Web3**: ethers.js
 - **Database**: MongoDB
-- **Authentication**: JWT with signature-based auth
 - **Styling**: Tailwind CSS
 - **Wallet Support**: MetaMask
 
