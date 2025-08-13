@@ -50,7 +50,7 @@ Edit `.env.local` with your configuration:
 # MongoDB Configuration
 MONGODB_URI=mongodb://localhost:27017/nftsongs
 # OR for MongoDB Atlas:
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/nftsongs
+# MONGODB_URI=<<YOUR MONGO DB URI>>
 
 # JWT Configuration
 JWT_SECRET=your_super_secret_jwt_key_here_change_in_production
